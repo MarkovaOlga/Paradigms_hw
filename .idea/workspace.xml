@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f37ce401-ec16-44b0-ab7c-acc4064d365b" name="Changes" comment="homework4 added" />
+    <list default="true" id="f37ce401-ec16-44b0-ab7c-acc4064d365b" name="Changes" comment="homework4 added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,7 @@
     "onboarding.tips.debug.path": "C:/Users/User/Desktop/GB_architecrure/Paradigms_hw/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.hometask04.Main">
+  <component name="RunManager" selected="Application.hometask06.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hometask01.Main" />
       <module name="Paradigms_hw" />
@@ -91,8 +93,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hometask06.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask06.Main" />
+      <module name="Paradigms_hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hometask06.Main" />
         <item itemvalue="Application.hometask04.Main" />
         <item itemvalue="Application.hometask03.Main" />
         <item itemvalue="Application.hometask02.Main" />
@@ -130,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702548026509</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework4 added">
+      <created>1702548148284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702548148284</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
